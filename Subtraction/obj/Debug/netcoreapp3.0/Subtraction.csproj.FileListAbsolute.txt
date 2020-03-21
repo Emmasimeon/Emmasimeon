@@ -1,0 +1,11 @@
+C:\Start_NG\Subtraction\bin\Debug\netcoreapp3.0\Subtraction.exe
+C:\Start_NG\Subtraction\bin\Debug\netcoreapp3.0\Subtraction.deps.json
+C:\Start_NG\Subtraction\bin\Debug\netcoreapp3.0\Subtraction.runtimeconfig.json
+C:\Start_NG\Subtraction\bin\Debug\netcoreapp3.0\Subtraction.runtimeconfig.dev.json
+C:\Start_NG\Subtraction\bin\Debug\netcoreapp3.0\Subtraction.dll
+C:\Start_NG\Subtraction\bin\Debug\netcoreapp3.0\Subtraction.pdb
+C:\Start_NG\Subtraction\obj\Debug\netcoreapp3.0\Subtraction.csprojAssemblyReference.cache
+C:\Start_NG\Subtraction\obj\Debug\netcoreapp3.0\Subtraction.AssemblyInfoInputs.cache
+C:\Start_NG\Subtraction\obj\Debug\netcoreapp3.0\Subtraction.AssemblyInfo.cs
+C:\Start_NG\Subtraction\obj\Debug\netcoreapp3.0\Subtraction.dll
+C:\Start_NG\Subtraction\obj\Debug\netcoreapp3.0\Subtraction.pdb

@@ -1,0 +1,11 @@
+C:\Start_NG\Variables2\bin\Debug\netcoreapp3.0\Variables2.exe
+C:\Start_NG\Variables2\bin\Debug\netcoreapp3.0\Variables2.deps.json
+C:\Start_NG\Variables2\bin\Debug\netcoreapp3.0\Variables2.runtimeconfig.json
+C:\Start_NG\Variables2\bin\Debug\netcoreapp3.0\Variables2.runtimeconfig.dev.json
+C:\Start_NG\Variables2\bin\Debug\netcoreapp3.0\Variables2.dll
+C:\Start_NG\Variables2\bin\Debug\netcoreapp3.0\Variables2.pdb
+C:\Start_NG\Variables2\obj\Debug\netcoreapp3.0\Variables2.csprojAssemblyReference.cache
+C:\Start_NG\Variables2\obj\Debug\netcoreapp3.0\Variables2.AssemblyInfoInputs.cache
+C:\Start_NG\Variables2\obj\Debug\netcoreapp3.0\Variables2.AssemblyInfo.cs
+C:\Start_NG\Variables2\obj\Debug\netcoreapp3.0\Variables2.dll
+C:\Start_NG\Variables2\obj\Debug\netcoreapp3.0\Variables2.pdb

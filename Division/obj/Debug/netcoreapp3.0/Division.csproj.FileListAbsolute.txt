@@ -1,0 +1,11 @@
+C:\Start_NG\Division\bin\Debug\netcoreapp3.0\Division.exe
+C:\Start_NG\Division\bin\Debug\netcoreapp3.0\Division.deps.json
+C:\Start_NG\Division\bin\Debug\netcoreapp3.0\Division.runtimeconfig.json
+C:\Start_NG\Division\bin\Debug\netcoreapp3.0\Division.runtimeconfig.dev.json
+C:\Start_NG\Division\bin\Debug\netcoreapp3.0\Division.dll
+C:\Start_NG\Division\bin\Debug\netcoreapp3.0\Division.pdb
+C:\Start_NG\Division\obj\Debug\netcoreapp3.0\Division.csprojAssemblyReference.cache
+C:\Start_NG\Division\obj\Debug\netcoreapp3.0\Division.AssemblyInfoInputs.cache
+C:\Start_NG\Division\obj\Debug\netcoreapp3.0\Division.AssemblyInfo.cs
+C:\Start_NG\Division\obj\Debug\netcoreapp3.0\Division.dll
+C:\Start_NG\Division\obj\Debug\netcoreapp3.0\Division.pdb
